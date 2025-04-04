@@ -1,4 +1,4 @@
-# 🟢 EasyScript
+# 😎 EasyScript
 
 **EasyScript** é uma linguagem de programação própria desenvolvida em Java, com foco na simplicidade e facilidade de leitura. Ideal para aprendizado e testes de compiladores, a EasyScript utiliza uma sintaxe clara, com tokens definidos e suporte à estruturação básica de programas.
 
